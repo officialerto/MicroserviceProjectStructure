@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1G/7iMhADlqMimLjzDh8y67Aqiuxcgc2GbG1gFcwfVmJ/OVV+Glw4fThZVCCV8uJdQDPBJI9XJ90HZc6VmHtJw==",
+  "dgSpecHash": "zEOc6dmXd8o5jX4Y1RfHXAjLDgmu1GOKQDj5D7cS6UIWBctDWs1n0jeBZLUR2V13xTMlLvn+zuyuGvM4w6/WbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ertugrul\\source\\repos\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

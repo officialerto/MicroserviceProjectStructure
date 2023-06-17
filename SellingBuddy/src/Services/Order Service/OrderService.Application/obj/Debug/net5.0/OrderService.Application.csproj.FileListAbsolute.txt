@@ -1,0 +1,12 @@
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\bin\Debug\net5.0\OrderService.Application.deps.json
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\bin\Debug\net5.0\OrderService.Application.dll
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\bin\Debug\net5.0\OrderService.Application.pdb
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfo.cs
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\OrderService.Application.dll
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\refint\OrderService.Application.dll
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\OrderService.Application.pdb
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Order Service\OrderService.Application\obj\Debug\net5.0\ref\OrderService.Application.dll

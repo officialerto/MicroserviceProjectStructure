@@ -1,0 +1,16 @@
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\bin\Debug\net5.0\NotificationService.exe
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\bin\Debug\net5.0\NotificationService.deps.json
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\bin\Debug\net5.0\NotificationService.runtimeconfig.json
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\bin\Debug\net5.0\NotificationService.runtimeconfig.dev.json
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\bin\Debug\net5.0\NotificationService.dll
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\bin\Debug\net5.0\NotificationService.pdb
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\NotificationService.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\NotificationService.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\NotificationService.AssemblyInfo.cs
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\NotificationService.dll
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\refint\NotificationService.dll
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\NotificationService.pdb
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\NotificationService.genruntimeconfig.cache
+C:\Users\Ertugrul\source\repos\SellingBuddy\src\Services\Notification Service\NotificationService\obj\Debug\net5.0\ref\NotificationService.dll
